@@ -1,6 +1,6 @@
-# adonis_portfolio
+# Adonis Portfolio (WIP)
 
-A new Flutter project.
+Personal portfolio created with the latest technologies that Flutter can offer
 
 ## Getting Started
 
